@@ -1,0 +1,1 @@
+import './globals.css'; export const metadata={title:'Multi-Tenant AI Agent Platform',description:'Enterprise RAG support platform'}; export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}

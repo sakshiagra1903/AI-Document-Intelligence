@@ -1,0 +1,13 @@
+name: agentos_admin
+description: AgentOS mobile administration client
+publish_to: 'none'
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  shared_preferences: ^2.3.3
+  cupertino_icons: ^1.0.8
+flutter:
+  uses-material-design: true
