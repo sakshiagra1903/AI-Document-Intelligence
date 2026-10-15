@@ -279,6 +279,13 @@ GitHub: \[@sakshiagra1903](https://github.com/sakshiagra1903)
 
 
 If you find this project interesting, explore the source code and documentation, and share your feedback.
+## 🎥 Project Demo
+
+Watch the working demo of the **AI Document Intelligence Platform**:
+
+[▶️ Watch the Project Demo on Google Drive](https://drive.google.com/file/d/13YZPbWIMBc5CrSMegWz9__2k6Q-eejN3/view?usp=sharing)
+
+
 
 
 
